@@ -26,6 +26,8 @@ public class CustomListTest {
     }
 
 
+
+
     /**
      * get the size of the list
      * increase the list by adding a new city
