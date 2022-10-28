@@ -70,12 +70,12 @@ public class CustomList extends ArrayAdapter<City> {
     }
 
     public void deleteCity(City city) {
-        /*for (int i = 0; i < cities.size(); i++){
+        for (int i = 0; i < cities.size(); i++){
             if (cities.get(i).getCityName() == city.getCityName() && cities.get(i).getProvinceName() == city.getProvinceName()) {
                 cities.remove(i);
                 break;
             }
-        }*/
+        }
     }
 
 
